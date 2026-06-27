@@ -1,6 +1,0 @@
-{
-  "name": "Asistente ShareFile OCR",
-  "description": "Busca imágenes en ShareFile, realiza OCR de manuscritos mediante Gemini y extrae números de teléfono.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
